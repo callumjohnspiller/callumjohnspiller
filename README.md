@@ -12,8 +12,13 @@ Here are some ideas to get you started:
 🔭 I’m currently working on making a basic metronome app as my first project. I would like this to work on Android devices.
 
 🌱 I’m currently learning how to make Android apps!
-👯 I’m looking to collaborate on any music or audio-bnased projects
-🤔 I’m looking for help with progressing beyond basic coding skills and working on web frameworks
-💬 Ask me about how to succeed in job interviews
-😄 Pronouns: He/Him
-⚡ Fun fact: I have appeared on the Crystal Maze with Richard Ayoade
+
+👯 I’m looking to collaborate on any music or audio-based projects.
+
+🤔 I’m looking for help with progressing beyond basic coding skills and working on web frameworks.
+
+💬 Ask me about how to succeed in job interviews.
+
+😄 Pronouns: He/Him.
+
+⚡ Fun fact: I have appeared on the Crystal Maze with Richard Ayoade.
