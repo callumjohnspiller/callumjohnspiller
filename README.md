@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 ### I am an apprentice engineer that is hoping to graduate into full-time work in September 2023 upon completion of my programme. This GitHub will be a place where I can work on new projects as a part of my learning path.
 
-🔭 I’m currently working on making a basic metronome app as my first project. I would like this to work on Android devices.
+🔭 I’m currently working on a web service that spatialises stereo audio!
 
-🌱 I’m currently learning how to make Android apps!
+🌱 I’m currently learning how to work on AWS.
 
 👯 I’m looking to collaborate on any music or audio-based projects.
 
