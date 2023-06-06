@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 ### I am an apprentice engineer that is hoping to graduate into full-time work in June 2023. I enjoy working primarily on web services at work and audio software in my spare time.
 
-🔭 I’m currently working on a web service that spatialises stereo audio!
+🔭 I’m currently working on building a desktop music application.
 
-🌱 I’m currently learning a wide variety of AWS services.
+🌱 I’m currently learning a wide variety of AWS services and expanding my knowledge in C++.
 
 👯 I’m looking to collaborate on any music or audio-based projects.
 
